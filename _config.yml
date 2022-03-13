@@ -50,7 +50,11 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
 
  새로운 기술에 관심이 많아 흥미에 따라 기술을 배워갑니다.
- 주 업무로 <mark>BackEnd Server</mark> 개발을 하고 있으며 <mark>FrontEnd</mark>, <mark>아키텍처</mark> 업무를 서브로 담당하고 있습니다.
+ 
+ 주 업무로 <mark>BackEnd Server</mark> 개발을 하고 있으며 
+ 
+ <mark>FrontEnd</mark>, <mark>아키텍처</mark> 업무를 서브로 담당하고 있습니다.
+ 
  또한 토이 프로젝트로 만들고 싶은 <mark>IOS</mark>, <mark>Android</mark> <mark>Client App</mark>을 만들고 있습니다.
 
  언어에 상관없이 배우는 것을 좋아하며 결과물을 만들어 내는데 흥미를 가지고 있습니다.
@@ -58,7 +62,9 @@ about_content: | # this will include new lines to allow paragraphs
  가장 선호 하는 언어 <mark>JAVA</mark> and <mark>JavaScript</mark>
 
  개발 문화도 관심을 가지며 전파하고 있습니다.
+ 
  Git 사용법을 전파하고 가독성 있는 히스토리를 남기는 것이 중요하다고 생각 합니다.
+ 
  Alige 문화를 전파하고 팀원들의 생선성을 증대시키는데 관심을 가집니다.
 
 content:
