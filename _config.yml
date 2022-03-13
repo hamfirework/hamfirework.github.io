@@ -47,7 +47,8 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.png
-about_content: | # this will include new lines to allow paragraphs
+about_content: # this will include new lines to allow paragraphs
+
 새로운 기술에 관심이 많아 흥미에 따라 기술을 배워갑니다.
 주 업무로 <mark>BackEnd Server</mark> 개발을 하고 있으며 <mark>FrontEnd</mark>, <mark>아키텍처</mark> 업무를 서브로 담당하고 있습니다.
 또한 토이 프로젝트로 만들고 싶은 <mark>IOS</mark>, <mark>Android</mark> <mark>Client App</mark>을 만들고 있습니다.
