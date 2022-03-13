@@ -62,7 +62,6 @@ about_content: | # this will include new lines to allow paragraphs
  Alige 문화를 전파하고 팀원들의 생선성을 증대시키는데 관심을 가집니다.
 
 content:
-
 - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
