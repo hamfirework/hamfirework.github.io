@@ -89,7 +89,8 @@ content:
           * 삼성전자 프린터 안드로이드 앱 자동화 테스트 시스템 개발
           * 삼성 사내 메신저 서비스 운영 및 분석 데이터 시스템 개발 - 40만 유저 로그 분석 및 대쉬보드 개발
           * 오픈소스 챗봇 플랫폼 개발 및 서비스 운영
-          * 메신저 연계 플랫폼 개발 - <mark>개발리더</mark> <mark> 사내 벤처 사업화 승인 - 봇스테이션 </mark> (https://www.samsungsds.com/kr/xeed_lab/XEED-LAB.html)
+          * 메신저 연계 플랫폼 개발 - <mark> 사내 벤처 사업화 승인 - 봇스테이션 </mark> 
+          * (https://www.samsungsds.com/kr/xeed_lab/XEED-LAB.html)
           * AI 기반 챗봇 플랫폼 디자이너 개발 (BackEnd & FrontEnd)
           * AI 기반 챗봇 플랫폼 코어 및 메신저 연계 플랫폼 개발 (BackEnd)
           * 사용자 의도 기반 강화학습 추천 시스템 프로토타입 개발
@@ -97,14 +98,14 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
+      - layout: left
+        title: Brity Assistant
         link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+#         additional_links:
+#           - title:  sproogen/modern-resume-theme
+#             icon: fab fa-github
+#             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
