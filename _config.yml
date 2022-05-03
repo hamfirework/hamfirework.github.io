@@ -178,27 +178,37 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Chungbuk University
+        caption: 2004 - 2011
+        sub_title: 전자공학전공
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  - title: Toy Project
+    layout: list
+    content: 
+      - layout: left
+        title: RealTodo 
+        sub_title: RealClass 알림 어플
+        caption: 2020.08 ~ 2020.11
+        quote: >
+          ReactNative
+        description: | # this will include new lines to allow paragraphs
+          * RealClass 유틸 어플
+          * 사용자 알람, Todo List
+          * Android, Ios 출시
+      - layout: left
+        title: 배당일기 
+        sub_title: 주식 배당 투자 기록 
+        caption: 2020.12 ~ 현재
+        quote: >
+          ReactNative, Firebase, GCP Cloud Function
+        description: | # this will include new lines to allow paragraphs
+          * 배당 투자 기록 어플
+          * 주식 등록, 배당 기록, 환전 기록
+          * Cloud Function 활용 Daliy 환율 제공
+          * Yahoo Finance 활용 Daily 종목 제공 예정 ( 2022 하반기 )
+          
 
 # Footer
 footer_show_references: true
