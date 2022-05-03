@@ -100,29 +100,79 @@ content:
     content:
       - layout: left
         title: Brity Assistant
-        sub_title: 챗봇 플랫폼 엔진 개발
-        caption: 2020.03 - 
-        link: github.com/sproogen
-        link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        sub_title: 챗봇 엔진 & 메신저 연계 플랫폼 개발
+        caption: 2020.03 - 현재
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Java, SpringBoot, MariaDB, Oracle, Redis
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          * 담당 업무 : BackEnd 개발
+          * State 기반 챗봇 의도 처리 개발
+          * NLU 연계 사용자 의도, 개체 분석 처리 개발
+          * 메세지 채널 연계 개발 - Slack, FaceBook, KaKao, Knox(사내메신저), MsTeams, WebChat
+          * Thompson Sampling 알고리즘 기반 사용자 추천 의도 기능 개발
       - layout: left
         title: Brity Assistant
-        link: github.com/sproogen
+        sub_title: 챗봇 디자이너 플랫폼 & 메신저 연계 플랫폼 개발
+        caption: 2019.10 ~ 2020.02
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Java, SpringBoot, MariaDB, Oracle, JavaScript, React, Join.js
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          * 담당 업무 : BackEnd 개발, FrontEnd 개발
+          * 챗봇 의도 설계 디자이너 개발 - Join.js 활용
+          * 챗봇 대화 분석 화면 개발 - 데이터 기반 차트, 분석
+          * 채널 연계 화면 개발
+      - layout: left
+        title: Botstation
+        sub_title: 메신저(채널) 연계 플랫폼 개발 & 상담원 연계 챗봇 구축
+        caption: 2018.08 ~ 2019.09
+        quote: >
+          Java, SpringBoot, JPA, RabbitMQ, MariaDB
+        description: | # this will include new lines to allow paragraphs
+          * 담당 업무 : BackEnd 개발
+          * 상담원을 위한 고객 발화 메세지 실시간 분석 및 FAQ 추천 서비스 개발
+          * 채널 연계 플랫폼 Node -> Spring 전환 개발
+          * 채널 연계 플랫폼 웹챗 메세지 구조 설계 개발
+      - layout: left
+        title: Botstation - 사내 벤처 프로그램 ( Xeed Lab )
+        sub_title: 챗봇 메신저 연계 플랫폼 개발
+        caption: 2017.12 ~ 2018.07
+        quote: >
+          TypeScript, Express(node), MongoDB, Angular 5~7
+        description: | # this will include new lines to allow paragraphs
+          * 담당 업무 : 개발 리더, BackEnd 개발
+          * 초기 프로젝트 셋업 및 개발 리딩
+          * 챗봇 채널 연계 공통화 설계 및 개발
+          * 채널 연계 - Slack, Line, FaceBook, Knox, Telegram
+      - layout: left
+        title: Brity
+        sub_title: 코딩 룰 기반 챗봇 플랫폼 개발
+        caption: 2016.11 ~ 2017.11
+        quote: >
+          Java, Spring Boot, ChatScript(오픈소스), MongoDB, Angular.js, JavaScript, ELK
+        description: | # this will include new lines to allow paragraphs
+          * 챗봇 빌드 구조 개발 및 배포
+          * ChatScript 활용 룰 기반 플랫폼 설계 및 개발
+          * ELK 활용 사용자 로그 분석 및 대쉬 보드 개발
+          * 사내 챗봇 구축 및 서비스 - 챗봇 1개당 2만 유저 서비스.
+      - layout: left
+        title: Knox Messenger
+        sub_title: 사내 메신저 운영 및 분석화면 개발
+        caption: 2014.12 ~ 2016.11
+        quote: >
+          Java, Spring Boot, BashScript, Hadoop, JavaScript, Angular.js
+        description: | # this will include new lines to allow paragraphs
+          * 사내 30~40만 유저 서비스 운영
+          * 메신저 5개 서버 로그 에러 원인 분석 및 리포트 생성 개발
+      - layout: left
+        title: 삼성전자 프린터 안드로이드 자동화 테스트 시스템 구축
+        sub_title: 안드로이드 자동화 테스트
+        caption: 2013.08 ~ 2014.11
+        quote: >
+          Python, BashScript, Jenkins
+        description: | # this will include new lines to allow paragraphs
+          * Daily 테스트 시스템 구축
+          * 20만건 이상 UI 자동화 테스트 후 리포트 발행 시스템 구축
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
